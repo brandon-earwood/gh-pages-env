@@ -8,7 +8,7 @@
   },
   "author": "Brandon Earwood",
   "license": "ISC",
-  "home": "https://brandon-earwood.github.io/gh-pages-env",
+  "homepage": "https://brandon-earwood.github.io/gh-pages-env",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
