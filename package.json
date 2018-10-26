@@ -1,0 +1,15 @@
+{
+  "name": "gh-pages-env",
+  "version": "1.0.0",
+  "description": "Test environment for GitHub Pages",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Brandon Earwood",
+  "license": "ISC",
+  "home": "https://brandon-earwood.github.io/gh-pages-env",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
